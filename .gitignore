@@ -1,0 +1,5 @@
+# Aggiungo un commento
+# Caro git, per favore ignora la cartella dei moduli
+
+node_modules/
+.env
